@@ -1,1 +1,1 @@
-Task 0. Where am I?
+scrip that switches current user to betty
