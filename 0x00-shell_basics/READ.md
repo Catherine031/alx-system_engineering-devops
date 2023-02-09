@@ -1,1 +1,1 @@
-script that displays the contents list of the current directory
+display current directory contents
